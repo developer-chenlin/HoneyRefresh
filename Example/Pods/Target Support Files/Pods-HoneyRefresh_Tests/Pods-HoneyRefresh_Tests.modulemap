@@ -1,0 +1,6 @@
+framework module Pods_HoneyRefresh_Tests {
+  umbrella header "Pods-HoneyRefresh_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

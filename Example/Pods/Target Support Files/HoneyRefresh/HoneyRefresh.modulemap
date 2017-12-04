@@ -1,0 +1,6 @@
+framework module HoneyRefresh {
+  umbrella header "HoneyRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}
